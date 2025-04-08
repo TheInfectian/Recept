@@ -15,13 +15,14 @@ h1{
     color: blueviolet;
 }
 
-.content{
+.content {
     display: flex;
     gap: 40px;
 }
 
 .content img {
-    width: 100%;
+    width: 231.6px;
+    height: 150px;
     border-radius: 8px;
     margin-bottom: 50px;
 }
@@ -41,4 +42,12 @@ table {
 th,td {
     border: 1px solid black;
     padding: 10px;
+}
+
+.media {
+    width: 231.6px;
+}
+
+.details {
+    width: 100%;
 }
